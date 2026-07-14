@@ -1,0 +1,6 @@
+{
+  "name": "Library Management System",
+  "description": "An elegant, production-grade Library Management System with automated fine calculations, robust user role access (Admin, Librarian, Student), live notifications, beautiful data analytics, and server-side Gemini AI book recommendation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
