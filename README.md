@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://library-management-system-445368796856.asia-southeast1.run.app/" />
+<img width="1200" height="475" alt="GHBanner" src="" />
 </div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/e1a2352e-e115-408c-afe7-269e4a966609
+View your app in AI Studio: https://library-management-system-445368796856.asia-southeast1.run.app/
 
 ## Run Locally
 
